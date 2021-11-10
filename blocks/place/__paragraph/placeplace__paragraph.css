@@ -4,6 +4,7 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 26px;
+  min-width: 288px;
 }
 
 .place__paragraph:nth-child(2) {
@@ -22,6 +23,10 @@
 }
 
 @media screen and (min-width: 1280px) {
+  .place__paragraph {
+    min-width: 484px;
+  }
+
   .place__paragraph:nth-child(2) {
     margin-top: 26px;
   }
