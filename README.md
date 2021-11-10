@@ -20,4 +20,4 @@
 
 **gh-pages**
 
-https://github.com/90morzh/russian-travel
+https://90morzh.github.io/russian-travel/
