@@ -15,6 +15,6 @@
 
 @media screen and (min-width: 1024px) {
   .intro__title {
-    width: 690px;
+    max-width: 690px;
   }
 }
